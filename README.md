@@ -42,7 +42,7 @@ The cleaned dataset and insights were saved to Zomato Data Analysis.csv.
 
 🔗 How to Use
 Clone this repository: bash
-git clone https://github.com/MuhammadQamar99/zomato-data-analysis.git
+git clone https://github.com/MuhammadQamar99/Zomato-Data-Analysis-Project.git
 
 Navigate to the project directory: bash
 cd zomato-data-analysis
